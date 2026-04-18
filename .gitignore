@@ -1,0 +1,13 @@
+.vs/
+Code/.vs/
+ipch/
+*.ipch
+*.VC.db
+*.suo
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
